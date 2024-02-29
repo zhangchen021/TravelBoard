@@ -6,3 +6,5 @@ http://tuzhubuluo.cn/
 
 # Demo Video
 http://tuzhubuluo.cn/static/demo.mp4
+
+![Alt](http://tuzhubuluo.cn/static/demo.png =600x900)
